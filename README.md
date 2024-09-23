@@ -1,5 +1,4 @@
-# Let's create the README.md file with the provided content.
-readme_content = """
+
 # Personal Expense Tracker
 
 This is a simple **Personal Expense Tracker** application built using **Python** and **Tkinter**. The application allows users to add, view, search, and delete expenses. It also stores the data using an **SQLite** database.
@@ -15,7 +14,7 @@ This is a simple **Personal Expense Tracker** application built using **Python**
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/personal-expense-tracker.git
+    git clone https://github.com/GHDBASHEN/Personal-Expense-Tracker.git
     ```
 
 2. Install the required dependencies:
