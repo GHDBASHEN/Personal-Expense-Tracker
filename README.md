@@ -1,5 +1,4 @@
-# Let's create the README.md file with the provided content.
-readme_content = """
+
 # Personal Expense Tracker
 
 This is a simple **Personal Expense Tracker** application built using **Python** and **Tkinter**. The application allows users to add, view, search, and delete expenses. It also stores the data using an **SQLite** database.
