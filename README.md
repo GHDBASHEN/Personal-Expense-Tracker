@@ -57,10 +57,3 @@ The application uses an **SQLite** database (`expenses.db`) to store the followi
 ## License
 
 This project is licensed under the MIT License.
-"""
-
-# Save the content to a README.md file.
-with open("/mnt/data/README.md", "w") as file:
-    file.write(readme_content)
-
-"/mnt/data/README.md"  # Returning the file path for download.
